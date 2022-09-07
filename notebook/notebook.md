@@ -24,7 +24,6 @@
 
     ros2命令行集成
 
-
 # ros-humble LTS
 
 ## 使用测试案例测试ros2系统安装是否成功
@@ -40,7 +39,6 @@ ros2 run demo_nodes_py talker
 ros2 run turtlesim turtlesim_node
 
 使用方向按键可实现小乌龟前进 后退 左旋转 右旋转
-
 
 # linux常用命令
 
@@ -72,7 +70,7 @@ ros2 run pkg node
 
 ros2 node list
 
-ros2 node info 
+ros2 node info
 
 ros2 topic list
 
@@ -122,7 +120,6 @@ intellicode
 
 markdown
 
-
 # ROS2黑话解释
 
 工作空间
@@ -145,7 +142,6 @@ log
 
     日志空间
 
-
 ## 安装编译工具
 
 sudo apt install python3-colcon-ros
@@ -158,18 +154,23 @@ source install/setup.sh
 
 ### cpp pkg
 
-ros2 pkg create --build-type ament_cmake
+ros2 pkg create --build-type ament_cmake pkgName
 
 ### py pkg
 
-ros2 pkg create --build-type ament_py
+ros2 pkg create --build-type ament_py pkgName
+
+
+# ROS2 node节点
+
+机器人的工作细胞：可以理解为计算机线程，可以使用不同类型的计算机语言进行编写
+
+py包要进行设置才能使用ros进行运行node
+
+节点名字=pkgName.fileName:funName
 
 
 
 
 
-
-
-
-
-noteDate：2022-09-06
+noteDate：2022-09-07

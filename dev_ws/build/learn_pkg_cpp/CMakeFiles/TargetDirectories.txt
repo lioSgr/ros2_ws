@@ -1,9 +1,0 @@
-/home/lio/ros2_ws/dev_ws/build/learn_pkg_cpp/CMakeFiles/uninstall.dir
-/home/lio/ros2_ws/dev_ws/build/learn_pkg_cpp/CMakeFiles/learn_pkg_cpp_uninstall.dir
-/home/lio/ros2_ws/dev_ws/build/learn_pkg_cpp/CMakeFiles/test.dir
-/home/lio/ros2_ws/dev_ws/build/learn_pkg_cpp/CMakeFiles/edit_cache.dir
-/home/lio/ros2_ws/dev_ws/build/learn_pkg_cpp/CMakeFiles/rebuild_cache.dir
-/home/lio/ros2_ws/dev_ws/build/learn_pkg_cpp/CMakeFiles/list_install_components.dir
-/home/lio/ros2_ws/dev_ws/build/learn_pkg_cpp/CMakeFiles/install.dir
-/home/lio/ros2_ws/dev_ws/build/learn_pkg_cpp/CMakeFiles/install/local.dir
-/home/lio/ros2_ws/dev_ws/build/learn_pkg_cpp/CMakeFiles/install/strip.dir
