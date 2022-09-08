@@ -160,7 +160,6 @@ ros2 pkg create --build-type ament_cmake pkgName
 
 ros2 pkg create --build-type ament_py pkgName
 
-
 # ROS2 node节点
 
 机器人的工作细胞：可以理解为计算机线程，可以使用不同类型的计算机语言进行编写
@@ -169,6 +168,11 @@ py包要进行设置才能使用ros进行运行node
 
 节点名字=pkgName.fileName:funName
 
+# ROS2 topic话题
+
+节点间传递消息的桥梁
+
+发布订阅模型 一对多 多对多
 
 
 
