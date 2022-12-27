@@ -1,8 +1,0 @@
-{
-  "package_name": "tutorial_interfaces",
-  "non_idl_tuples": [
-    "/home/lio/ros2_ws/dev_ws/src/tutorial_interfaces:msg/Num.msg",
-    "/home/lio/ros2_ws/dev_ws/src/tutorial_interfaces:msg/Sphere.msg",
-    "/home/lio/ros2_ws/dev_ws/src/tutorial_interfaces:srv/AddThreeInts.srv"
-  ]
-}

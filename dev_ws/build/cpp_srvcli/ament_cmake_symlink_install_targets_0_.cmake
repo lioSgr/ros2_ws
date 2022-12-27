@@ -1,1 +1,0 @@
-ament_cmake_symlink_install_targets("TARGET_FILES" "/home/lio/ros2_ws/dev_ws/build/cpp_srvcli/server" "/home/lio/ros2_ws/dev_ws/build/cpp_srvcli/client" "TARGETS" "server" "client" "DESTINATION" "lib/cpp_srvcli")

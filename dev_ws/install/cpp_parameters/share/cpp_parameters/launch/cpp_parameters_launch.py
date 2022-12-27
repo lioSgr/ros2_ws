@@ -1,1 +1,0 @@
-/home/lio/ros2_ws/dev_ws/src/cpp_parameters/launch/cpp_parameters_launch.py

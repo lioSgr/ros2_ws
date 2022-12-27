@@ -1,6 +1,0 @@
-Invoking command in '/home/lio/ros2_ws/dev_ws/build/cpp_srvcli': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/lio/ros2_ws/dev_ws/src/cpp_srvcli -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/lio/ros2_ws/dev_ws/install/cpp_srvcli
-Invoked command in '/home/lio/ros2_ws/dev_ws/build/cpp_srvcli' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/lio/ros2_ws/dev_ws/src/cpp_srvcli -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/lio/ros2_ws/dev_ws/install/cpp_srvcli
-Invoking command in '/home/lio/ros2_ws/dev_ws/build/cpp_srvcli': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/lio/ros2_ws/dev_ws/build/cpp_srvcli -- -j4 -l4
-Invoked command in '/home/lio/ros2_ws/dev_ws/build/cpp_srvcli' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/lio/ros2_ws/dev_ws/build/cpp_srvcli -- -j4 -l4
-Invoking command in '/home/lio/ros2_ws/dev_ws/build/cpp_srvcli': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/lio/ros2_ws/dev_ws/build/cpp_srvcli
-Invoked command in '/home/lio/ros2_ws/dev_ws/build/cpp_srvcli' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/lio/ros2_ws/dev_ws/build/cpp_srvcli

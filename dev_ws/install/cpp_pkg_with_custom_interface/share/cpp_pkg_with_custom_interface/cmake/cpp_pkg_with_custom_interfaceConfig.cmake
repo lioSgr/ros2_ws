@@ -1,1 +1,0 @@
-/home/lio/ros2_ws/dev_ws/build/cpp_pkg_with_custom_interface/ament_cmake_core/cpp_pkg_with_custom_interfaceConfig.cmake
