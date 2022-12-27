@@ -1,0 +1,1 @@
+/home/lio/ros2_ws/dev_ws/build/tutorial_interfaces/rosidl_generator_py/tutorial_interfaces/msg/_sphere_s.c
